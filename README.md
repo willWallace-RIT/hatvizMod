@@ -4,6 +4,7 @@ This is a small P5js sketch that lets you construct patches of aperiodic hat til
 
 The sketch is built using the [P5js](https://p5js.org/) library.  You can run it by pointing your browser at `app.html`.  That file references an online copy of the file.  You can also run it with a local copy of the library; download `P5.min.js` from the [P5js download page](https://p5js.org/download/), put it in the same directory as `hat.js` and `app.html`, and modify `app.html` to reference it instead of the online version.
 
+progress:
 
 on a private repo until initial release but i have made strides with the number of iterations with local storage.
 
