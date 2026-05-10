@@ -95,3 +95,9 @@ Work in progress:
 This fork reframes the system from a runtime simulation into a data generator for GPU consumption.
 
 The emphasis is on structured, repeatable state generation rather than per-frame object management.
+
+NEWS: 
+currently my offline/private version does squeeze out another iteration on javascript but a little lost in
+in the sauce reworking the export data during a displacement event. 
+
+refactoring should help get things working again.
